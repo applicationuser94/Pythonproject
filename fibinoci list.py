@@ -15,4 +15,3 @@ def fib(n):
         
           print(c)
 fib(-6)
-#Nishanth
