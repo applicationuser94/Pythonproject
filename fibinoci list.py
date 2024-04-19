@@ -15,3 +15,6 @@ def fib(n):
         
           print(c)
 fib(-6)
+nishanth
+code
+lost
